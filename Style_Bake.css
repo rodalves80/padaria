@@ -1,0 +1,55 @@
+h1{
+    font-family: 'Gill Sans';
+    font-size: 32px;
+    color: green;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+.vec{
+    text-align: center;
+    width: 150px;
+    border-style: dotted 4px color#757575;
+}
+h3{
+    font-weight: bold;
+    color: black;
+}
+body{
+    margin: 0;
+    background-color: #f4f0e5;
+}
+.secao{
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+a{
+    margin: 0 10px;
+    color: #542f0c;
+}
+span{
+    font-weight: bold;
+}
+.cak{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    border-style: 2px solid color#757575;
+}
+.loob{
+    color: orangered;
+    font-weight:bolder;
+}
+.sec-destaque{
+    background-color:lightgreen;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+}
+.social{
+    text-align: center;
+    width: 50px;
+    margin: 20px auto;
+}
